@@ -1,3 +1,4 @@
 add file test
 find remote test
 add local
+add remote
