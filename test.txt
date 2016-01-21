@@ -4,3 +4,4 @@ add local
 add remote
 add 3
 add 4
+add merge
